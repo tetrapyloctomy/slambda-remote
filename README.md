@@ -1,1 +1,1 @@
-# slambda
+# slambda-remote
